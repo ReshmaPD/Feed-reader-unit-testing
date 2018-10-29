@@ -5,8 +5,8 @@
 ## Table of Contents
 * [About the Application](#about-the-application)
 * [Application dependencies](#application-dependencies)
-* [How to Run the Application](#How-to-run-the-application)
-* [Resources](#Resources)
+* [How to Run the Application](#how-to-run-the-application)
+* [Resources](#resources)
 * [Technologies](#technologies)
 * [Application Functionalities](#application-functionalities)
 * [Contributing](#contributing)
@@ -97,8 +97,8 @@ Any suggestions are welcome.
 2. Explore the Jasmine spec file in _(./jasmine/spec/feedreader.js)_ to view the test suites.
    * Review the Jasmine documentation online.
 
-* Here are some Resources to get started and Understand more about Jasmine testing if you are a Begineer
-[1] https://jasmine.github.io/1.3/introduction.html
-[2] https://www.tutorialspoint.com/jasminejs/jasminejs_overview.htm
-[3] https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/
+* Here are some Resources to get started and Understand more about Jasmine testing if you are a Begineer  
+[1] https://jasmine.github.io/1.3/introduction.html  
+[2] https://www.tutorialspoint.com/jasminejs/jasminejs_overview.htm  
+[3] https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/  
 
