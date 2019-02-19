@@ -33,6 +33,7 @@ This is a web based RSS feed reader application. It uses the Google Feed Reader 
  4. It may take some time to completely load as additional network requests are made. Once loaded, all the **test suites** can be seen at the _bottom_ of the web page under the name Jasmine.
 
 ## Application-Functionalities
+![](images/UdaciFeeds-testsuite.png)
 #### Test suites implemented in the application to ensure:
 ###### 1. allFeeds array is defined and contains an feed object which are not empty.
 * Test suite **RSS feeds**
@@ -68,6 +69,7 @@ This is a web based RSS feed reader application. It uses the Google Feed Reader 
      * When asynchronous `loadFeed()` is done loading two feeds
      * Make sure that each loaded feed content is different from each other.
 
+![](images/UdaciFeeds-tests.png)
 ## Resources
 
 * [Jasmine](https://jasmine.github.io/)
