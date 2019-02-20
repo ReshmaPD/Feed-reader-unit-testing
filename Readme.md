@@ -1,8 +1,7 @@
-**Edited and previewed using[https://dillinger.io/]**
-
 # Feed Reader Testing Project
 
 ## Table of Contents
+* [About](#about)
 * [About the Application](#about-the-application)
 * [Application dependencies](#application-dependencies)
 * [How to Run the Application](#how-to-run-the-application)
@@ -10,6 +9,9 @@
 * [Technologies](#technologies)
 * [Application Functionalities](#application-functionalities)
 * [Contributing](#contributing)
+
+## About
+Feedreader Testing creates a great opportunity for writing effective tests using Jasmine that requires analyzing multiple aspects of an application including the HTML, CSS and JavaScript.These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
 ## About the Application
 
