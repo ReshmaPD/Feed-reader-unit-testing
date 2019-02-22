@@ -1,5 +1,7 @@
 # Feed Reader Testing Project
 
+**[Starter Code](https://github.com/udacity/frontend-nanodegree-feedreader) The starter code from Udacity was provided.Goal was to write test suites using Jasmine.**
+
 ## Table of Contents
 * [About](#about)
 * [About the Application](#about-the-application)
